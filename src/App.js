@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Cloud Treinamentos
+          Cloud Treinamentos Versão [1.0]
         </a>
       </header>
     </div>
